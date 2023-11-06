@@ -1,13 +1,12 @@
-## 👋 Hello and welcome to the Implementation Demo's GitHub Organization
+## Hello 👋 ..And Welcome to the Implementation Demos GitHub Organization
 
-## The What's and the Why's
+THis organization is home to all the wonderful IM-built demos, created to show off all the features and flows, to our merchants, that are possible with Adyen. While an official Adyen demo is in the works, we see that there is always need for IM's to dabble with code and make quick spin ups of working features to prove to our merchants what is possible.
+You may visit any of individual repsositories and follow the link to demo site
 
-THis organization is home to all the wonderful IM built demo's built to show off to our merchants the features and flows that are possible with Adyen. While an official Adyen demo is in the works, we see that there is a need for IM's to make quick spin ups of working features to prove to merchants what is possible.
+## Contributing
 
-## Guidelines for contribution
-
-Each demo in this orgnaization is the result of the hard work, care and love of the individuals and teams that have built them. 
-You may visit any of individual repsositories and follow the link to the official hosted site to explore how it works.
+Each demo in this organization is the result of the hard work, care and love of the individuals and teams that have built them. Please respect them by following the guidelines
+listed here.
 
 iF you find that there is a fetaure that would be really great for the demo that isn't currently available, please request this to the owners of the respository by opening an issue.
 
@@ -21,7 +20,7 @@ Please follow the following rules
 ## Branch Naming Convention
 When creating a branch, use the naming convention @name followed by /subject ie: @luke/chatbot_stuff
 
-## Presales Demo 
+## The Demos
 
 [UK Presales Demo](https://github.com/Implementation-Presales-Demos/uk-presales)
 
